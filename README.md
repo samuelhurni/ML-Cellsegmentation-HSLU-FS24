@@ -5,7 +5,7 @@ This branch contains the data of Samuel Hurni for the ML project in MachineLearn
 Part of this branch is the competition from kaggle: https://www.kaggle.com/competitions/sartorius-cell-instance-segmentation
 
 All work was done in jupyter notebook on google collab:
-Filename: Sartorius-Segmentation_kaggle_Sam_v099
+Filename: Sartorius-Segmentation_kaggle_Sam_v999
 
 Several trainings were performed with A100 GPU (advanced mask head) and T4GPU (leaner mask head).
 
